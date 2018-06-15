@@ -24,6 +24,7 @@ hilarious = False
 # joke_evaluation = "Isn't that joke so funny?"
 # print(joke_evaluation,hilarious)
 
+# 其实这里等于print("Isn't that joke so funny? {}".format(hilarious))
 joke_evaluation = "Isn't that joke so funny? {}"
 print(joke_evaluation.format(hilarious))
 
