@@ -1,3 +1,6 @@
+# input与argv一起使用
+# argv也可以用format来读取
+
 from sys import argv
 
 code_name , human_name1, human_name2 = argv
