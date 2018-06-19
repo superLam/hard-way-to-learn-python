@@ -1,3 +1,6 @@
+# input里面的“”可以理解为print，就是说等于
+# print("What")
+# age = input()
 age = input("How old are you? ")
 height = input("How tall are you? ")
 weight = input("How much do you weigh ")
